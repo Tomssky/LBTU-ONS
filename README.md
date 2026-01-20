@@ -10,7 +10,7 @@ PostgresSQL
 - Dev login un check
 - dzešana, modificēšana un pievienošana
 
-Tree.js
+Three.js
 - navigacija ar A* pathfinding
 - vizulācija prieks pils un nav linijas
 - topdown un side view
